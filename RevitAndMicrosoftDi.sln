@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAndMicrosoftDi.AddIn", "RevitAndMicrosoftDi\RevitAndMicrosoftDi.AddIn.csproj", "{99001B16-FB1E-4D9E-9D75-D3A650E40EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99001B16-FB1E-4D9E-9D75-D3A650E40EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99001B16-FB1E-4D9E-9D75-D3A650E40EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99001B16-FB1E-4D9E-9D75-D3A650E40EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99001B16-FB1E-4D9E-9D75-D3A650E40EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779B76A8-8789-4CB0-9826-F339249808D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitAndMdiApp</Name>
+    <Assembly>C:\!dev\RevitAndMicrosoftDi\RevitAndMicrosoftDi\bin\Debug\RevitAndMicrosoftDi.dll</Assembly>
+    <AddInId>5AACF8D0-2D9B-4AB0-A1AF-E0ED9C70FA3E</AddInId>
+    <FullClassName>RevitAndMicrosoftDi.RevitAndMdiApp</FullClassName>
+    <VendorId>CLRS</VendorId>
+    <VendorDescription>BIMDance, support@bimdance.io</VendorDescription>
+  </AddIn>
+</RevitAddIns>
